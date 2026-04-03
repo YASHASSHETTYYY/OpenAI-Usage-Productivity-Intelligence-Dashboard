@@ -876,10 +876,6 @@ def main():
             <div>
               <div class="hero-overline">OpenAI productivity intelligence</div>
               <div class="hero-title">Quiet, focused analytics for AI performance.</div>
-              <div class="hero-copy">
-                The dashboard now uses a Cod Gray foundation, bright white typography, and soft
-                gradients to echo the visual feel of OpenAI's website while keeping the data easy to read.
-              </div>
               <div class="hero-meta">
                 <div class="hero-chip">Live filtered view</div>
                 <div class="hero-chip">{len(filtered_df):,} records</div>
