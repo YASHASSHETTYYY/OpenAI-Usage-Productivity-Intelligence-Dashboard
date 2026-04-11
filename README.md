@@ -98,4 +98,4 @@ Opens at `http://localhost:8501`
 ## Author
 
 **Yashas Shetty**
-[GitHub](https://github.com/YASHASSHETTYYY) · [LinkedIn](www.linkedin.com/in/yashas-shetty)
+[GitHub](https://github.com/YASHASSHETTYYY) · [LinkedIn](https://www.linkedin.com/in/yashas-shetty)
